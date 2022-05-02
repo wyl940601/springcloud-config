@@ -1,4 +1,5 @@
-
+config:
+  info: version 1
 spring:
   application:
     name: cloud-payment-service-config
